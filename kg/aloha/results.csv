@@ -1,0 +1,81 @@
+,responsibility,gt_match
+0,chats with online friends,see online friends
+1,invites friend to join aloha,invite friend
+2,gets friend suggestions,give friend suggestion
+3,unfriends friend,unfriend
+4,searches friends,search for friend
+5,searches friends on aloha,search for friend
+6,resets password,reset password
+7,clicks unlock link,unlock account
+8,clicks verification link,send verification link
+9,retrieves chitchat history,see chat history
+10,stores chitchat on exit,store chats
+11,sends message to intended user,search for friend
+12,receives chitchat from user in friend list,search for friend
+13,initiates chitchat with user in friend list,search for friend
+14,logs in to edit account details,enter account details
+15,logs in to add account details,enter account details
+16,logs in to add personal details,enter account details
+17,logs in to add educational details,add educational skills
+18,has verified account to add personal details,verify account
+19,has verified account to add educational details,verify account
+20,has option to accept or ignore friend request,search for friend
+21,makes personal information public or private,set public private
+22,makes account details public or private,set public private
+23,must be 18 years old or more,search for friend
+24,has options to change personal settings,change personal settings
+25,has options to search people,search for friend
+26,has options to logout,lock account
+27,dislikes scribble,dislike scribble
+28,comments on scribble,comment on scribble
+29,erases scribble,erase scribbles
+30,deletes comment,delete comment
+31,deletes account,delete profile
+32,retrieves chitchat,search for friend
+33,stores chitchat,store chats
+34,receives chitchat,receive chat
+35,sends text files,attach text file
+36,sends message,forward chat message
+37,deletes scribble,erase scribbles
+38,sees count of liked scribble,see likes count
+39,sees count of disliked scribble,dislike scribble
+40,sees delete link,see other profile
+41,ignores friend request,search for friend
+42,accepts friend request,search for friend
+43,makes personal information public,set public private
+44,makes personal information private,set public private
+45,makes account details public,enter account details
+46,makes account details private,set public private
+47,uploads profile picture,upload profile picture
+48,edits account details,enter account details
+49,adds account details,enter account details
+50,adds personal details,search for friend
+51,adds educational details,add educational skills
+52,logs in with email-id and password,check password
+53,creates account,create account
+54,create account,create account
+55,login,login
+56,initiate chitchat,search for friend
+57,view friends,search for friend
+58,send friend request,send friend request
+59,accept friend request,search for friend
+60,ignore friend request,search for friend
+61,delete friend request,remove friend
+62,upload profile picture,upload profile picture
+63,edit account details,enter account details
+64,add account details,enter account details
+65,add personal details,search for friend
+66,add educational details,add educational skills
+67,make personal information public,set public private
+68,make personal information private,set public private
+69,make account details public,enter account details
+70,make account details private,set public private
+71,like scribble,like scribble
+72,dislike scribble,dislike scribble
+73,share scribble,see scribbles
+74,view online friends,see online friends
+75,receive friend request,search for friend
+76,receive chitchat,receive chat
+77,receive verification link,send verification link
+78,receive unlock link,unlock account
+79,receive captcha,show captcha
